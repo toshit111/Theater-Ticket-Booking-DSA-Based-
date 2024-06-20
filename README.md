@@ -11,6 +11,12 @@ The Cinemax Movie Theatre Booking System is a Java-based application designed to
 - Cancel Booking: Cancel a booking for a seat, making it available again.
 - View Available Seats: List all available seats in the theatre.
 
+## Output Demo
+![Screenshot 2024-06-20 105058](https://github.com/toshit111/Theater-Ticket-Booking-DSA-Based-/assets/142931155/c51a0eaf-7519-4dc0-80f4-f54375cad361)
+
+![Screenshot 2024-06-20 1051457](https://github.com/toshit111/Theater-Ticket-Booking-DSA-Based-/assets/142931155/0602d55e-3f2c-4db7-9c54-7ab986b9b5cf)
+
+
 ## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
