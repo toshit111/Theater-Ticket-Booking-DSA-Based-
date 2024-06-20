@@ -40,15 +40,16 @@ Execute the Cinemax class to start the application.
 ### Main Menu
 Upon starting the application, the main menu will be displayed:
 
-**************************************************************
-        CINEMAX MOVIE THEATRE
-**************************************************************
-Press <1> Current Seat Status
-Press <2> Book Seat
-Press <3> Cancel Booking
-Press <4> Available Seat
-Press <5> Exit
-Enter your choice: 
+    ```bash
+    **************************************************************
+                     CINEMAX MOVIE THEATRE
+    **************************************************************
+    Press <1> Current Seat Status
+    Press <2> Book Seat
+    Press <3> Cancel Booking
+    Press <4> Available Seat
+    Press <5> Exit
+    Enter your choice: 
 
 ### Options
 
