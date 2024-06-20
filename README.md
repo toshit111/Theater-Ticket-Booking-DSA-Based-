@@ -1,1 +1,1 @@
-# Theater-Ticket-Booking-DSA-Based-
+# Theater Ticket Booking
